@@ -1,0 +1,10 @@
+# drox.py
+**drox.py** is a discord unblocker for school filters.
+### What this lets you do
+- Access Discord as well as Login
+- Access the Developer Portal
+- Allows you to link connections
+- Allows you to view the TOS
+- Allows you to chat with your friends!
+## Credits
+IRETheKid: Base of the proxy server.
