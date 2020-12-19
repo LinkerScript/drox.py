@@ -1,5 +1,6 @@
-import flask
-import requests
+import flask, requests
+
+print("Starting up...")
 
 app = flask.Flask(__name__)
 site = "https://discord.com/"
