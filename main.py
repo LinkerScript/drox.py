@@ -15,6 +15,10 @@ excludes = [
 def index():
     return flask.render_template("index.html")
 
+@app.route("/land/credits/")
+def cr():
+    return flask.render_template("c.html")
+
 
 @app.route("/<path:path>", methods=methods)
 def reverse_proxy(path: str):
