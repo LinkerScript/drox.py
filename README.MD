@@ -8,5 +8,3 @@ Ever wanted to talk to your friends on Discord on your school Computer / Mobile 
 - Allows you to link connections
 - Allows you to view the TOS
 - Allows you to chat with your friends!
-## Credits
-IRETheKid: Base of the proxy server.
